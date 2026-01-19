@@ -7,8 +7,7 @@ The project involved creating a structured document from scratch, ensuring high 
 Key Implementation Details:
 Manual Boilerplate Creation: The document was written manually starting with <!DOCTYPE html> to understand the core requirements of an HTML document, including the <head> metadata and the <body> content.
 
-Semantic Architecture: 
-Instead of using non-semantic <div> tags, I utilized HTML5 semantic elements to define the page structure:
+Semantic Architecture: Instead of using non-semantic div tags, I utilized HTML5 semantic elements to define the page structure:
 
 I have used header for the introduction and branding of the profile.
 
