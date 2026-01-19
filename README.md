@@ -10,17 +10,17 @@ Manual Boilerplate Creation: The document was written manually starting with <!D
 Semantic Architecture: 
 Instead of using non-semantic <div> tags, I utilized HTML5 semantic elements to define the page structure:
 
-<header>: Used for the introduction and branding of the profile.
+I have used header for the introduction and branding of the profile.
 
-<nav>: Used to wrap the primary navigation menu.
+I have used nav to wrap the primary navigation menu.
 
-<main>: Identified the central content unique to this specific page.
+I have used main to identify the central content unique to this specific page.
 
-<section>: Grouped related content like "Education" and "Skills."
+I have used section group related content like "Education" and "Skills."
 
-<article>: Used within the Education section to wrap a specific degree entry.
+I have used article within the Education section to wrap a specific degree entry.
 
-<footer>: Used for authorship and copyright information.
+I have used footer for authorship information.
 
 Internal Navigation: I implemented an internal menu using anchor tags (<a>) and unique id attributes. This allows users to "jump" to specific sections (About, Education, Skills, or Contact) within the same page.
 
